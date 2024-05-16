@@ -1,1 +1,1 @@
-![gkissel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkissel&show_icons=true&theme=radical)
+Hi! I'm a proud programmer with a strong focus on the JS world
